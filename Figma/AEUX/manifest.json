@@ -1,11 +1,8 @@
 {
   "name": "AEUX",
-  "id": "864522107465619637",
+  "id": "1068491054691053124",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
-  "editorType": [
-    "figjam",
-    "figma"
-  ]
+  "editorType": ["figjam", "figma"]
 }
